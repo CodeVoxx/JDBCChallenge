@@ -25,7 +25,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>de.telekom.sea.Main</mainClass>
+							<mainClass>de.telekom.jdbcchallenge.Main</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
